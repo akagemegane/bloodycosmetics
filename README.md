@@ -1,4 +1,4 @@
-# Bloody Costmetics
+# Bloody Cosmetics
 Cosmetic Tweaks for NotBlood (and NBlood)! Normally for network play.
 
 # What's the purpose?
