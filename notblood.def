@@ -1,0 +1,22 @@
+// This is meant to be inside your NBlood/NotBlood directory //
+// You can add or swap things by modifiying this file        //
+// Look inside the 'custom' folder and find what you want	 //
+// There is a preview folder as well for easier finding.	 //
+
+// NotBlood specific
+voxel "NOTBLOODQUAD.KVX" { tile 9300 }
+
+// Uncomment these to be used
+
+// Custom Title Screen //
+// include custom/titles/filename.def
+
+// Custom HUD / Status Bar //
+// include custom/huds/transparenthud.def
+
+// Custom Crosshair Graphic //
+// include custom/crosshair/dot.def
+
+// Custom Player Skins //
+// NOTE : The cultist .DEFs are there for NotBlood since you can play as one in netgames. //
+// include custom/player/cultist_dakki.def
