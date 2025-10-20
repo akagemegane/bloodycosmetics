@@ -12,9 +12,11 @@ Uncomment the include statements so NotBlood will load the specified .DEF files.
 Before :
 
 // Custom Title Screen //
+
 **// include custom/titles/filename.def**
 
 After :
 
 // Custom Title Screen //
+
 **include custom/titles/blooda\_castle.def**
