@@ -1,0 +1,3 @@
+// Shotgun seen from the Russian Bootleg copy of Blood
+tilefromtexture 2629 { file "custom\weapons\shotgun\vodka\2629.png" }
+tilefromtexture 2632 { file "custom\weapons\shotgun\vodka\2632.png" }

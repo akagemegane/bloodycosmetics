@@ -6,16 +6,16 @@
 // NotBlood specific
 voxel "NOTBLOODQUAD.KVX" { tile 9300 }
 
-// Uncomment these to be used
+// Feel free to edit this or comment out certain parts using "//" without quotes.
 
 // Custom Title Screen //
-// include custom/titles/filename.def
+include custom/titles/bloodq_2.def
 
 // Custom HUD / Status Bar //
-// include custom/huds/transparenthud.def
+// include custom/huds/hud.def
 
 // Custom Crosshair Graphic //
-// include custom/crosshair/dot.def
+include custom/crosshair/dot.def
 
 // Custom Player Skins //
 // NOTE : The cultist .DEFs are there for NotBlood since you can play as one in netgames. //

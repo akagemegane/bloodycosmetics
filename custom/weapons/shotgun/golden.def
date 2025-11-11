@@ -1,0 +1,9 @@
+// Golden Shotgun by Mundy
+tilefromtexture 2629 { file "custom\weapons\shotgun\golden\2629.png" }
+tilefromtexture 2630 { file "custom\weapons\shotgun\golden\2630.png" }
+tilefromtexture 2631 { file "custom\weapons\shotgun\golden\2631.png" }
+tilefromtexture 2632 { file "custom\weapons\shotgun\golden\2632.png" }
+tilefromtexture 3161 { file "custom\weapons\shotgun\golden\3161.png" }
+tilefromtexture 3162 { file "custom\weapons\shotgun\golden\3162.png" }
+tilefromtexture 3163 { file "custom\weapons\shotgun\golden\3163.png" }
+tilefromtexture 3166 { file "custom\weapons\shotgun\golden\3166.png" }
